@@ -1,5 +1,5 @@
 #Multiclass classification problem
-# Logistic regression
+# KNN
 
 import numpy as np
 import pandas as pd
